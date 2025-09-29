@@ -130,7 +130,7 @@ Finally we added an admin dashboard inside Datadog, which uses the data previous
 |Gemini 2.5 Flash (LLM)|Blend 80/20 with input as $0.30/1M tokens and output as $2.50/1M tokens times 270M tokens| ~$200 | ~$3400 |
 |Total per month|  | - | ~$3400 |
 
-Observation: The LLM was not mentioned before because I understood that actually this should not make a huge difference on the architecture. On the other hand, I considered Gemini 2.5 Flash here since it seems to be the best cost-benefit in a context of high usage of RAGs and a fast response time.
+Observation: The LLM choice wasn't mentioned earlier because I understood it wouldn't actually make a significant difference to the architecture. On the other hand, I considered Gemini 2.5 Flash here because it seems to offer the best cost-benefit in a high RAG usage scenario while still maintaining decent response times.
 
 ## Final Considerations
 - The major cost is the fixed infrastructure, while Gemini Flash 2.5 keeps the RAG workload cheap. 

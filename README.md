@@ -128,7 +128,7 @@ Finally we added an admin dashboard inside Datadog, which uses the data previous
 |Datadog|8 hosts + Log Ingestion + Metrics + Storage| ~$450 | ~$3000 |
 |Network/snapshots/backups|Database backups and logs outcome| ~$200 | ~$3200 |
 |Gemini 2.5 Flash (LLM)|Blend 80/20 with input as $0.30/1M tokens and output as $2.50/1M tokens times 270M tokens| ~$200 | ~$3400 |
-|Total per month|  | - | ~$3400 |
+|Total per month| - | - | ~$3400 |
 
 Observation: The LLM choice wasn't mentioned earlier because I understood it wouldn't actually make a significant difference to the architecture. On the other hand, I considered Gemini 2.5 Flash here because it seems to offer the best cost-benefit in a high RAG usage scenario while still maintaining decent response times.
 

@@ -421,6 +421,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4R8Sw2vQ4H-YskiwGbd--1" value="Get context&amp;nbsp;&lt;br&gt;from user prompt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rn9oT_1pmyvXsv68HmSw-19">
+          <mxGeometry x="0.5545" y="-1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rn9oT_1pmyvXsv68HmSw-10" value="Context Provider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="301.67" width="120" height="60" as="geometry" />
         </mxCell>
@@ -446,6 +451,11 @@
         </mxCell>
         <mxCell id="rn9oT_1pmyvXsv68HmSw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" source="rn9oT_1pmyvXsv68HmSw-16" target="rn9oT_1pmyvXsv68HmSw-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4R8Sw2vQ4H-YskiwGbd--2" value="Context" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rn9oT_1pmyvXsv68HmSw-32">
+          <mxGeometry x="-0.3162" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
